@@ -9,7 +9,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/Devredhat/CodeAlpha_Project_Network_Sniffing?style=social)
 [![CodeAlpha Project: Network Sniffing](https://img.shields.io/badge/CodeAlpha_Project-Network_Sniffing-blue?style=flat-square)](https://github.com/Devredhat/CodeAlpha_Project_Network_Sniffing)
 
-This is a description of my project where I developed two projects under the domain of network sniffing:
+## This is a description of my project where I developed two projects under the domain of network sniffing:
 
 1. **Python-based Project**: This Python script is designed to monitor HTTP traffic on a network interface using Scapy. It captures details such as protocol (TCP/UDP), IP addresses, ports, HTTP methods, paths, form data, and user-agent information. The captured requests are displayed in a structured table format, highlighting critical details for each request, including browser information and submitted form data.
 
