@@ -24,7 +24,7 @@ This Python script monitors HTTP traffic on a network interface using Scapy, cap
 ## 📖 Usage
 
 1. Ensure Python and required dependencies are installed (`pip install -r requirements.txt`).
-2. Run the script (`python http_traffic_monitor.py`).
+2. Run the script (`python networksniff.py`).
 3. Observe HTTP traffic on the specified network interface.
 4. Terminate monitoring by pressing Ctrl+C.
 
