@@ -30,7 +30,7 @@ This Python script monitors HTTP traffic on a network interface using Scapy, cap
 
 ## 🌐 Explore More
 
-Check out the [project on GitHub](https://github.com/Devredhat/CodeAlpha_Project_Network_Sniffing) for detailed documentation, issues, and contributions.
+Check out the [project on GitHub](https://github.com/Devredhat) for detailed documentation, issues, and contributions.
 
 ---
 
