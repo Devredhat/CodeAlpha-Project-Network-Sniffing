@@ -1,4 +1,4 @@
-# CodeAlpha Project: Network Sniffing Tool🔍
+![image](https://github.com/user-attachments/assets/dfb2a446-09ec-4e4b-a302-4ceb842adb80)# CodeAlpha Project: Network Sniffing Tool🔍
 [![CodeAlpha Project: Network Sniffing](https://r4.wallpaperflare.com/wallpaper/168/815/785/computer-the-room-hacker-the-world-at-night-wallpaper-3d3cd7535fdab5d1ca88d75fef1ecb67.jpg)](https://github.com/Devredhat/CodeAlpha_Project_Network_Sniffing)
 
 
@@ -93,7 +93,8 @@ This Python script is designed to monitor HTTP traffic on a network interface us
 
 ### Images :
 
-- https://lh3.googleusercontent.com/drive-viewer/AKGpihakp8gfUcydJ_KQWdywGfhcMciBKnlACmrB9jyuXP2_0MWhCtDPFLWCCJ2GlsuY3KEA_9yEVenh_Hj4GhlwJrFnWpmKdS76Pkc=w1920-h912-rw-v1
+- ![image](https://github.com/user-attachments/assets/37cb8da5-c1be-44ff-8d0f-9b96624bc405)
+
   
 ## 🌐 Explore More
 
