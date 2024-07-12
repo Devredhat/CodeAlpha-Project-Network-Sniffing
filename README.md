@@ -1,4 +1,5 @@
 # CodeAlpha Project: Network Sniffing
+[![CodeAlpha Project: Network Sniffing](https://r4.wallpaperflare.com/wallpaper/168/815/785/computer-the-room-hacker-the-world-at-night-wallpaper-3d3cd7535fdab5d1ca88d75fef1ecb67.jpg)](https://github.com/Devredhat/CodeAlpha_Project_Network_Sniffing)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Devredhat/CodeAlpha_Project_Network_Sniffing?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/Devredhat/CodeAlpha_Project_Network_Sniffing?style=social)
