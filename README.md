@@ -40,7 +40,7 @@
 
 🌐 **Website**: "http://testphp.vulnweb.com/login.php"
 
-🖥️ **Supported Platforms**: Linux, Windows
+🖥️ **Supported Platforms**: Windows VS Code Editor
 
 📝 **Objective**: Create a script to capture HTTP requests from the specified website without permission.
 
