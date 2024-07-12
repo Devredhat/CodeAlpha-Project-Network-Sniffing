@@ -1,7 +1,4 @@
-╭──────────────────────────────╮
 │   # CodeAlpha_Project: Network Sniffing 🛡️🔍   │
-╰──────────────────────────────╯
-
 
 ![CodeAlpha_Project_Network_Sniffing](https://c4.wallpaperflare.com/wallpaper/168/815/785/computer-the-room-hacker-the-world-at-night-wallpaper-preview.jpg)
 
