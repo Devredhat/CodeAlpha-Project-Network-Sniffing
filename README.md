@@ -1,7 +1,7 @@
 # HTTP Traffic Monitor
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/your_username/your_repo_name)
-![GitHub stars](https://img.shields.io/github/stars/your_username/your_repo_name?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Devredhat/CodeAlpha_Project_Network_Sniffing)
 ![GitHub forks](https://img.shields.io/github/forks/your_username/your_repo_name?style=social)
 
 This Python script monitors HTTP traffic on a network interface using Scapy, capturing details such as protocol (TCP/UDP), IP addresses, ports, HTTP methods, paths, form data, and user-agent information. It displays captured requests in a structured table format, highlighting critical details for each request, including browser information and submitted form data.
