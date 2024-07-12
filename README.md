@@ -37,7 +37,7 @@ This Python script is designed to monitor HTTP traffic on a network interface us
    - Open your terminal or command prompt.
    - Use `pip`, Python's package installer, to install the necessary packages:
      ```
-     (`pip install scapy prettytable user_agents`)
+     pip install scapy prettytable user_agents
      ```
    - **Explanation of Packages:**
      - `scapy`: Allows manipulation and capturing of network packets.
