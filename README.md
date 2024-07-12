@@ -1,8 +1,8 @@
-# HTTP Traffic Monitor
+# CodeAlpha Project: Network Sniffing
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your_username/your_repo_name)
-![GitHub stars](https://img.shields.io/github/stars/Devredhat/CodeAlpha_Project_Network_Sniffing)
-![GitHub forks](https://img.shields.io/github/forks/your_username/your_repo_name?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/Devredhat/CodeAlpha_Project_Network_Sniffing)
+![GitHub stars](https://img.shields.io/github/stars/Devredhat/CodeAlpha_Project_Network_Sniffing?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Devredhat/CodeAlpha_Project_Network_Sniffing?style=social)
 
 This Python script monitors HTTP traffic on a network interface using Scapy, capturing details such as protocol (TCP/UDP), IP addresses, ports, HTTP methods, paths, form data, and user-agent information. It displays captured requests in a structured table format, highlighting critical details for each request, including browser information and submitted form data.
 
@@ -29,3 +29,7 @@ This Python script monitors HTTP traffic on a network interface using Scapy, cap
 4. Terminate monitoring by pressing Ctrl+C.
 
 Feel free to customize the badges and add more sections as needed to enhance your repository's README.md file.
+
+---
+
+[Visit Project on GitHub](https://github.com/Devredhat/CodeAlpha_Project_Network_Sniffing)
