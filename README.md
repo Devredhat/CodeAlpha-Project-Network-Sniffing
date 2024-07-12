@@ -4,11 +4,11 @@
 ![GitHub stars](https://img.shields.io/github/stars/Devredhat/CodeAlpha_Project_Network_Sniffing?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Devredhat/CodeAlpha_Project_Network_Sniffing?style=social)
 
-This Python script monitors HTTP traffic on a network interface using Scapy, capturing details such as protocol (TCP/UDP), IP addresses, ports, HTTP methods, paths, form data, and user-agent information. It displays captured requests in a structured table format, highlighting critical details for each request, including browser information and submitted form data.
+This Python script is designed to monitor HTTP traffic on a network interface using Scapy. It captures details such as protocol (TCP/UDP), IP addresses, ports, HTTP methods, paths, form data, and user-agent information. The captured requests are displayed in a structured table format, highlighting critical details for each request, including browser information and submitted form data.
 
 ## 🚀 Key Features
 
-- **Real-time Monitoring:** Captures and displays HTTP requests and responses as they occur.
+- **Real-time Monitoring:** Captures and displays HTTP requests and responses in real-time.
 - **Detailed Analysis:** Provides comprehensive details like protocol types, IP addresses, ports, and HTTP header contents.
 - **User-Agent Parsing:** Extracts and interprets browser and operating system information from user-agent strings.
 - **Form Data Extraction:** Decodes and presents form submissions sent via HTTP POST requests.
@@ -30,7 +30,7 @@ This Python script monitors HTTP traffic on a network interface using Scapy, cap
 
 ## 🌐 Explore More
 
-Check out the [project on GitHub](https://github.com/Devredhat) for detailed documentation, issues, and contributions.
+Check out the [project on GitHub](https://github.com/Devredhat/CodeAlpha_Project_Network_Sniffing) for detailed documentation, issues, and contributions.
 
 ---
 
