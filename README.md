@@ -91,11 +91,6 @@ This Python script is designed to monitor HTTP traffic on a network interface us
 
 - **Permissions:** Ensure your environment has the necessary permissions to capture network packets. Administrative privileges might be required, depending on your operating system.
   
-- **Customization:** Modify the `filter` parameter in the `sniff()` function (`filter=""`) within your script to capture specific types of network traffic based on protocols or IP ranges.
-  
-- **Dependencies:** Keep your Python environment updated and ensure compatibility between installed packages. Consider using virtual environments (`venv`) to manage dependencies if necessary.
-
-
 ## 🌐 Explore More
 
 Check out the [project on GitHub](https://github.com/Devredhat/CodeAlpha_Project_Network_Sniffing) for detailed documentation, issues, and contributions.
