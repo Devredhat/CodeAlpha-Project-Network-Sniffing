@@ -28,6 +28,15 @@ This Python script is designed to monitor HTTP traffic on a network interface us
 3. Observe HTTP traffic on the specified network interface.
 4. Terminate monitoring by pressing Ctrl+C.
 
+🔍 **HTTP Request Capturing Script**
+
+🌐 **Website**: "http://testphp.vulnweb.com/login.php"
+
+🖥️ **Supported Platforms**: Linux, Termux, Windows
+
+📝 **Objective**: Create a script to capture HTTP requests from the specified website without permission.
+
+
 ### Detailed Installation Instructions:
 
 1. **Install Python:**
