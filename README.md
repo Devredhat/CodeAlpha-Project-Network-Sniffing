@@ -28,10 +28,9 @@ This Python script is designed to monitor HTTP traffic on a network interface us
 
 ## 📖 Usage
 
-1. Ensure Python and required dependencies are installed (`pip install -r requirements.txt`).
-2. Run the script (`python networksniff.py`).
-3. Observe HTTP traffic on the specified network interface.
-4. Terminate monitoring by pressing Ctrl+C.
+1. Run the script (`python networksniff.py`).
+2. Observe HTTP traffic on the specified network interface.
+3. Terminate monitoring by pressing Ctrl+C.
 
 🔍 **HTTP Request Capturing Script**
 
