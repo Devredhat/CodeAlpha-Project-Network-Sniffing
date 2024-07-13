@@ -11,10 +11,10 @@
 
 ## This is a Description of my Project Where I Developed Two projects under the One Domain of Network Sniffing:
 
-## 1. Python-based Project ##
+## 1. 🐍 Python-based Project ##
 This Python script is designed to monitor HTTP traffic on a network interface using Scapy. It captures details such as protocol (TCP/UDP), IP addresses, ports, HTTP methods, paths, form data, and user-agent information. The captured requests are displayed in a structured table format, highlighting critical details for each request, including browser information and submitted form data.
 
-## 2. Web-based Project ##
+## 2. 🖥️ Web-based Project ##
 Create a script to capture HTTP requests from the specified website without permission.
 
 
