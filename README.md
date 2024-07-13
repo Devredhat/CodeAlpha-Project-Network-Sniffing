@@ -57,7 +57,7 @@ Create a script to capture HTTP requests from the specified website without perm
    - Open your terminal or command prompt.
    - Use `pip`, Python's package installer, to install the necessary packages:
      ```
-     pip install scapy prettytable user_agents
+     pip install pyyaml ua-parser user-agents scapy prettytable
      ```
    - **Explanation of Packages:**
      - `scapy`: Allows manipulation and capturing of network packets.
